@@ -1,6 +1,8 @@
 # 1. Setup your project
 
-The proverb "A good start is half the battle", certainly applies to video editing. Setting up your project to your needs is key to success. After that, and only then, you should start editing and rendering.[![Overview of the project setup](https://static.miraheze.org/blendocwiki/thumb/0/02/1.0.0-overview.svg/1920px-1.0.0-overview.svg.png)](https://blendoc.miraheze.org/wiki/File:1.0.0-overview.svg)
+The proverb "A good start is half the battle", certainly applies to video editing. Setting up your project to your needs is key to success. After that, and only then, you should start editing and rendering.
+
+![Overview of chapter 1](../.gitbook/assets/1-0-0-overview.svg)
 
 Any non-trivial video project quickly counts a multitude and variety of files. Organizing them in a way so that they can easily be recognized and retrieved can save you considerable time later on.
 
